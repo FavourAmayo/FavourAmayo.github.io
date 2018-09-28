@@ -310,6 +310,8 @@ footer p {
   /* PROJECTS PAGE */
   .project {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .container {
