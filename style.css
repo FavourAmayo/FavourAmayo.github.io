@@ -78,7 +78,7 @@ main img {
   margin-right: auto;
   display: block;
   border: #2a6ba0 3px solid;
-  -webkit-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg); 
 }
 
 /* text in the body */
