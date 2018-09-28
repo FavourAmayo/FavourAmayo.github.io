@@ -158,10 +158,6 @@ footer p {
   text-transform: uppercase;
 }
 
-.container img {
-  /* width: 100%; */
-}
-
 .titles {
   background-color: gray;
   width: 210px;
@@ -210,9 +206,6 @@ footer p {
 }
 
 /* ABOUT PAGE */
-
-.skills {
-}
 
 .section {
   display: inline-flex;
@@ -282,7 +275,7 @@ footer p {
   }
 
   main img{
-    /* -webkit-transform: rotate(360deg); */
+    -webkit-transform: rotate(360deg);
   }
 
   /* ABOUT PAGE */
@@ -292,8 +285,6 @@ footer p {
 
   .section {
     display: block;
-    /* margin-left: 42%;
-        margin-right: 50%; */
     margin-left: 35%;
     margin-right: auto;
   }
@@ -310,11 +301,6 @@ footer p {
   /* PROJECTS PAGE */
   .project {
     display: block;
-  }
-
-  .container {
-    /* margin-left: 32%; */
-    
   }
 
   /* RESUME PAGE */
