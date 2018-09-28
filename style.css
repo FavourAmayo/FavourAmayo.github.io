@@ -276,6 +276,7 @@ footer p {
 
   main img{
     -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
   }
 
   /* ABOUT PAGE */
