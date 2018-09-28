@@ -330,7 +330,7 @@ footer p {
 
   @media screen and (max-width: 600px) {
     main img{
-      transform: rotate(360deg);
+      transform: rotate(360deg); 
     }
   }
 
